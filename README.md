@@ -1,29 +1,43 @@
 # To-Do List App
 
-A simple Flutter to-do list application built in Android Studio.
+[![Flutter](https://img.shields.io/badge/Flutter-v3.16-blue)](https://flutter.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Features
-- All, completed, uncompleted and past tasks
-- Add, delete, and edit the tasks
-- Persistent storage using shared preferences / database
-- Clean and responsive UI
+A simple and clean Flutter to-do list application built with Android Studio.
 
-## Getting Started
-- Clone the repo
-- Run `flutter pub get`
-- Launch in emulator or device
+---
 
-## Screenshots
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
-![img_7.png](img_7.png)
-![img_8.png](img_8.png)
+## ✨ Features
 
+- View all, completed, uncompleted, and past tasks
+- Add, edit, and delete tasks easily
+- Persistent storage using Shared Preferences or local database
+- Clean, minimal, and responsive user interface
 
+---
 
-## License
-MIT
+## 🚀 Getting Started
+
+1. Clone this repository
+2. Run `flutter pub get`
+3. Launch on emulator or physical device via Android Studio or terminal
+
+---
+
+## 📸 Screenshots
+
+### 📂 Task Management
+| All Tasks | Completed | Uncompleted | Past Tasks |
+|----------|-----------|-------------|------------|
+| ![All Tasks](img_1.png) | ![Completed](img_2.png) | ![Uncompleted](img_3.png) | ![Past](img_4.png) |
+
+### 🛠️ Task Actions
+| Edit | Info | Add | Delete |
+|------|------|-----|--------|
+| ![Edit](img_5.png) | ![Info](img_6.png) | ![Add](img_7.png) | ![Delete](img_8.png) |
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
